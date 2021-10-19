@@ -1,7 +1,7 @@
 <h1 align="center">нєℓℓσ ƒσℓкѕ 👋</h1>
 
 
-![331c2faf-b2a4-46a5-87bc-310474271c1a-01](https://user-images.githubusercontent.com/91313378/137859105-46f37adf-3ab9-4930-8fbe-92842d986b12.jpeg)
+![bafb9aae-3ceb-492e-803f-5c62f2c66ea3-01](https://user-images.githubusercontent.com/91313378/137864495-ab0140d4-cd97-44c1-8026-e46f516fdef4.jpeg)
 
 ![200](https://user-images.githubusercontent.com/91313378/137848333-0b597a81-349b-41b7-b576-c71d78ca4411.gif)
 
