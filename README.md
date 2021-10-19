@@ -1,6 +1,9 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓢𝔀𝓪𝓹𝓷𝓲𝓵 𝔀𝓪𝓱𝓲𝓵𝓮</h1>
 <h3 align="center">𝙱𝙴 𝙸𝚃 𝚜𝚝𝚞𝚍𝚎𝚗𝚝. 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</h3>
 
+![200](https://user-images.githubusercontent.com/91313378/137848333-0b597a81-349b-41b7-b576-c71d78ca4411.gif)
+
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwapnilWahile/udemy-100daysofcode-python](https://github.com/SwapnilWahile/udemy-100daysofcode-python)
