@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SwapnilWahile/udemy-100daysofcode-python](https://github.com/SwapnilWahile/udemy-100daysofcode-python)
+- 👨‍💻 All of my projects are available at [https://github.com/SwapnilWahile/udemy-100daysofcode-python](https://github.com/SwapnilWahile
 
 - 📫 How to reach me **swapnilwahile24@gmail.com**
 
